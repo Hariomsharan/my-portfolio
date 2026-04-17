@@ -178,7 +178,7 @@ const Contact = () => {
         </div>
 
         <p className="contact-item mt-32 text-center text-[8px] uppercase tracking-[1em] text-gray-600">
-          Built with Precision • Hariom WebDev 2026
+          Built with Precision • Hariom Sharan 2026
         </p>
       </div>
     </section>
