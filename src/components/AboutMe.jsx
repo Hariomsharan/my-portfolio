@@ -13,7 +13,7 @@ const AboutMe = () => {
       gsap.from(".reveal-text", {
         opacity: 0,
         y: 30,
-        duration: 1.5,
+        duration: 2,
         stagger: 0.3,
         ease: "power4.out",
         scrollTrigger: {

@@ -54,7 +54,7 @@ const Hero = () => {
           Mern Stack Developer
         </p>
 
-        <p className="hero-reveal max-w-lg mx-auto text-gray-400 text-sm md:text-lg leading-relaxed mb-12 font-light">
+        <p className="hero-reveal max-w-lg mx-auto text-gray-400 text-sm md:text-lg leading-relaxed mb-10 font-light">
           Building full-stack applications with React and Node.js, focused on
           performance, scalability, and real-world impact.
         </p>
@@ -94,12 +94,12 @@ const Hero = () => {
         </div>
       </div>
 
-      <div className="hero-reveal absolute bottom-10 flex flex-col items-center gap-2">
+      <div className="hero-reveal absolute bottom-4 flex flex-col items-center gap-2">
         <span className="text-[8px] uppercase tracking-widest text-gray-500">
           Scroll
         </span>
         <div className="w-px h-12 bg-linear-to-b from-gold/50 to-transparent" />
-      </div>
+      </div>  
     </section>
   );
 };

@@ -110,12 +110,12 @@ const Contact = () => {
                 >
                   GitHub
                 </a>
-                <a
+                {/* <a
                   href="#"
                   className="text-[10px] uppercase tracking-[0.3em] hover:text-gold transition-colors"
                 >
                   Instagram
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
